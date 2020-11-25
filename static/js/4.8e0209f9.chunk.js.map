@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Contact.js"],"names":["Contact"],"mappings":"8HAUeA,UARf,WACE,OACE","file":"static/js/4.8e0209f9.chunk.js","sourcesContent":["import React from 'react'\n\nfunction Contact() {\n  return (\n    <div>\n      Contact\n    </div>\n  )\n}\n\nexport default Contact\n"],"sourceRoot":""}
