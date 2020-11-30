@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/Resume.js"],"names":["Resume"],"mappings":"8HAUeA,UARf,WACE,OACE","file":"static/js/7.8649fbbf.chunk.js","sourcesContent":["import React from 'react'\n\nfunction Resume() {\n  return (\n    <div>\n      Resume\n    </div>\n  )\n}\n\nexport default Resume\n"],"sourceRoot":""}
