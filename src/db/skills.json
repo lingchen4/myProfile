@@ -1,0 +1,32 @@
+[
+  {
+    "name":"CSS",
+    "progress": "100",
+    "color": "#86e01e"
+  },
+  {
+    "name":"JavaScript",
+    "progress": "100",
+    "color": "#86e01e"
+  },
+  {
+    "name":"HTML",
+    "progress": "100",
+    "color": "#86e01e"
+  },
+  {
+    "name":"ReactJS",
+    "progress": "80",
+    "color": "#f2d31b"
+  },
+  {
+    "name":"NodeJS",
+    "progress": "80",
+    "color": "#f2d31b"
+  },
+  {
+    "name":"Git",
+    "progress": "80",
+    "color": "#48AE2C"
+  }
+]

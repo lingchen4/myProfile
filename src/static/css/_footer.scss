@@ -1,0 +1,62 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 90%;
+  padding: 5%;
+  
+  &_info{
+    
+    &-img{
+      margin-top: 2rem;
+      border-radius: 50%;
+      width: 200px;
+    }
+    
+    h1 {
+      text-transform: uppercase;
+    }
+
+    a {
+      color: burlywood;
+      text-decoration: none;
+    }
+  }
+
+  &_about {
+    margin-top: 2rem;
+    border-top: solid 1px rgba(160, 160, 160, 0.3);
+    text-align: left;
+  }
+
+  p {
+    color: #646464;
+  }
+  
+  .social {
+    ul {
+      list-style: none;
+      display: flex;
+      padding: 0;
+      margin: 0.5rem 0;
+      li {
+        padding: 0 1rem;
+        font-size: 1.5rem;
+        height: 1.5rem;
+        a {
+          color: #aaa;
+          &:hover {
+            color: purple;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width:960px){
+  .footer{flex-direction: column-reverse;}
+  
+} 

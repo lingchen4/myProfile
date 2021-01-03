@@ -1,0 +1,22 @@
+.home {
+  padding: 2rem;
+
+  &_header{
+    text-align: center;
+    p {
+      font-family: "Raleway",Helvetica,sans-serif;
+      font-size: 0.7em;
+      font-weight: 400;
+      letter-spacing: .25em;
+      line-height: 2.5;
+      margin-top: -1em;
+      text-transform: uppercase;
+      color: #646464;
+    }
+  }
+
+  &_content{
+    padding: 1.5rem 1rem;
+    color: #646464;
+  }
+}

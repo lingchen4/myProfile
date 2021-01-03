@@ -1,0 +1,31 @@
+{
+  "Education": "Bachelor of Engineering – Mechanical Engineering Carleton University",
+  "Expreience": [
+      {
+        "title": "Full Stack Programmer",
+        "company": "Impact North Inc",
+        "duration": "May 2020 – Dec 2020",
+        "detail": [
+          "Developed web components, functions with jQuery, React, Redux and React Hook",
+          "Implemented interactive page templates utilizing by Bootstrap 4, CSS3, JavaScript, and PHP",
+          "Perform all tasks related to digital development including front end and back end development, SEO, Google Analytics.",
+          "Experienced with version control tools like Git, Bitbucket. In-depth knowledge of source controller concepts like Branches, Tags, and Merges  ",
+          "Daily quality control of all assigned work, including testing and troubleshooting in multiple browsers, platforms, operating systems, and sizes (responsive designs) ",
+          "Gained hands-on Experience with Node, APIs, Data Structures, Algorithms, and tech principles via both team/individual projects, code reviews and pair programming"
+        ]
+      },
+      {
+        "title": "Web Developer",
+        "company": "Suning.com Ltd",
+        "duration": "May 2019 - Aug 2019",
+        "detail":[
+          "Implemented interactive page templates utilizing Bootstrap, CSS3 animation, JS effects to improve user experience", 
+          "Conducted and analyzed requirements for business modules and transformed them into technical models", 
+          "Maintained web products and developed multiple functions and web pages for Service feedback Demo Project; Added interaction design and reactive forms to improve user experience (UX)", 
+          "Code review for group members in agile environment, merged new features to current branch", 
+          "Collected and analyzed feedback and improved design of products based on the analysis result", 
+          "Generated reports & Provide strategies to promote website performance in SEO, responsiveness & interactivity"
+        ]
+      }
+    ]
+}
