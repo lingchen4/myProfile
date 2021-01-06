@@ -28,10 +28,10 @@ function ProgressBars() {
                     bgColor="#333333"
                     trackBorderColor="#eee"
                     defColor={{
-                      fair: 'orangered',
-                      good: 'yellow',
+                      fair: item.color,
+                      good: item.color,
                       excellent: item.color,
-                      poor: 'red',
+                      poor: item.color,
                     }}
                   />
                 </div>
