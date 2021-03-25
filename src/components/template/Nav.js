@@ -20,7 +20,7 @@ function Nav() {
         <ul className={`collapsed ${isExpanded ? "is-expanded" : ""}`}>
           <li><NavLink className="nav-item" activeClassName="active" to='/about'>About</NavLink></li>
           <li><NavLink className="nav-item" activeClassName="active" to='/resume'>Resume</NavLink></li>
-          <li><NavLink className="nav-item" activeClassName="active" to='/projects'>projects</NavLink></li>
+          {/* <li><NavLink className="nav-item" activeClassName="active" to='/projects'>projects</NavLink></li> */}
           <li><NavLink className="nav-item" activeClassName="active" to='/contact'>contact</NavLink></li>
         </ul>
       </nav>

@@ -12,7 +12,6 @@ function Home() {
       <hr/>
       <div className="home_content">
         <p>Welcome to my website. Please feel free to read more about me, or you can check out my resume, projects, view site statistics, or contact me.</p>
-        <p>Source available here.</p>
       </div>
       <hr/>
       <div className="home_content">

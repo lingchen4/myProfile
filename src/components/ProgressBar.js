@@ -9,12 +9,12 @@ function ProgressBars() {
   // )
   return (
     <div>
-      <div class="aprogress">
+      <div className="aprogress">
         <div className="progress-items">
           {
             data.map(
               item =>(
-                <div>
+                <div key={item.name}>
                   <span>{item.name}</span>
                   <ProgressBar
                     width="90%"

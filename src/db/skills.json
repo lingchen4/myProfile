@@ -1,16 +1,22 @@
 [
   {
+    "name":"HTML",
+    "progress": "100",
+    "color": "#86e01e"
+  },
+  {
     "name":"CSS",
     "progress": "100",
     "color": "#86e01e"
   },
   {
-    "name":"JavaScript",
+    "name":"Bootstrap",
     "progress": "100",
     "color": "#86e01e"
   },
+  
   {
-    "name":"HTML",
+    "name":"JavaScript",
     "progress": "100",
     "color": "#86e01e"
   },
@@ -25,8 +31,58 @@
     "color": "#f2d31b"
   },
   {
+    "name":"ExpressJS",
+    "progress": "80",
+    "color": "#f2d31b"
+  },
+  {
+    "name":"Jquery",
+    "progress": "80",
+    "color": "#f2d31b"
+  },
+  {
+    "name":"Sass",
+    "progress": "80",
+    "color": "#f2d31b"
+  },
+  {
     "name":"Git",
     "progress": "80",
-    "color": "#48AE2C"
+    "color": "#f2d31b"
+  },
+  {
+    "name":"TypeScript",
+    "progress": "75",
+    "color": "rgb(56, 150, 226)"
+  },
+  {
+    "name":"MongoDB",
+    "progress": "75",
+    "color": "rgb(56, 150, 226)"
+  },
+  {
+    "name":"MySQL",
+    "progress": "75",
+    "color": "rgb(56, 150, 226)"
+  },
+  {
+    "name":"Python",
+    "progress": "70",
+    "color": "rgb(64, 73, 78)"
+  },
+  {
+    "name":"Heroku",
+    "progress": "70",
+    "color": "rgb(64, 73, 78)"
+  },
+  {
+    "name":"Redis",
+    "progress": "65",
+    "color": "rgb(195, 66, 63)"
+  },
+  {
+    "name":"Photoshop",
+    "progress": "65",
+    "color": "rgb(195, 66, 63)"
   }
 ]
