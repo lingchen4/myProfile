@@ -1,0 +1,2 @@
+.contact-container{display:flex;flex-direction:column;justify-content:center;align-items:center;padding-top:40px}.contact-container h1{font-size:3rem}.contact-container p{color:#6b6b6b}.social-container{display:flex}.social-container__icon{margin:10px}.social-container__icon a svg{transition:all .3s ease;-webkit-clip-path:circle(50%);clip-path:circle(50%)}.social-container__icon a svg:hover{background-color:bisque}
+/*# sourceMappingURL=5.3d7cbbf9.chunk.css.map */
